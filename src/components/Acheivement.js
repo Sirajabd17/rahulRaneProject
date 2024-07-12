@@ -20,7 +20,7 @@ const Acheivement = () => {
       <div className="footertext h-fit relative z-10  xs:bottom-12 sm:bottom-20 font-saira text-[28px] text-center font-medium italic xs:mt-4 sm:mt-0 sm:mx-8 xs:mx-4">
       <h1 >We apologise for the inconvenience, but we're performing some maintenance. We'll be back up soon!
 </h1>
-<h1 className="text-end pr-9">-Rahul Rane</h1>
+<h1 className="text-end pr-9 text-textRed ">-Rahul Rane</h1>
 
 </div>
     </section>
